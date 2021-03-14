@@ -1,0 +1,8 @@
+Kaggle Competition: Categorical Encoding Challenge
+
+The goal is to build a binary classification predicitive model given a dataset contains categroical and numerical features. 
+In this dataset there are:
+1. binary features
+2. low- and high-cardinality nominal features
+3. low- and high-cardinality ordinal features
+4. (potentially) cyclical features
